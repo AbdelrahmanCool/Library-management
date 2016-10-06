@@ -1,0 +1,65 @@
+﻿  Source.cpp
+e:\work\c++ workspace\library-management\library-management\source.cpp(95): warning C4305: '=': truncation from 'int' to 'char'
+e:\work\c++ workspace\library-management\library-management\source.cpp(95): warning C4309: '=': truncation of constant value
+e:\work\c++ workspace\library-management\library-management\source.cpp(143): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+e:\work\c++ workspace\library-management\library-management\source.cpp(211): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(562): note: see declaration of 'strcmpi'
+e:\work\c++ workspace\library-management\library-management\source.cpp(221): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+e:\work\c++ workspace\library-management\library-management\source.cpp(231): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(562): note: see declaration of 'strcmpi'
+e:\work\c++ workspace\library-management\library-management\source.cpp(241): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+e:\work\c++ workspace\library-management\library-management\source.cpp(266): warning C4308: negative integral constant converted to unsigned type
+e:\work\c++ workspace\library-management\library-management\source.cpp(266): warning C4307: '*': integral constant overflow
+e:\work\c++ workspace\library-management\library-management\source.cpp(261): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(562): note: see declaration of 'strcmpi'
+e:\work\c++ workspace\library-management\library-management\source.cpp(277): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+e:\work\c++ workspace\library-management\library-management\source.cpp(297): warning C4308: negative integral constant converted to unsigned type
+e:\work\c++ workspace\library-management\library-management\source.cpp(297): warning C4307: '*': integral constant overflow
+e:\work\c++ workspace\library-management\library-management\source.cpp(292): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(562): note: see declaration of 'strcmpi'
+e:\work\c++ workspace\library-management\library-management\source.cpp(308): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+e:\work\c++ workspace\library-management\library-management\source.cpp(330): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(562): note: see declaration of 'strcmpi'
+e:\work\c++ workspace\library-management\library-management\source.cpp(344): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+e:\work\c++ workspace\library-management\library-management\source.cpp(361): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(562): note: see declaration of 'strcmpi'
+e:\work\c++ workspace\library-management\library-management\source.cpp(372): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+e:\work\c++ workspace\library-management\library-management\source.cpp(388): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+e:\work\c++ workspace\library-management\library-management\source.cpp(403): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+e:\work\c++ workspace\library-management\library-management\source.cpp(418): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+e:\work\c++ workspace\library-management\library-management\source.cpp(432): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+e:\work\c++ workspace\library-management\library-management\source.cpp(468): warning C4308: negative integral constant converted to unsigned type
+e:\work\c++ workspace\library-management\library-management\source.cpp(468): warning C4307: '*': integral constant overflow
+e:\work\c++ workspace\library-management\library-management\source.cpp(453): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(562): note: see declaration of 'strcmpi'
+e:\work\c++ workspace\library-management\library-management\source.cpp(462): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(562): note: see declaration of 'strcmpi'
+e:\work\c++ workspace\library-management\library-management\source.cpp(484): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+e:\work\c++ workspace\library-management\library-management\source.cpp(499): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1252)
+e:\work\c++ workspace\library-management\library-management\source.cpp(524): warning C4308: negative integral constant converted to unsigned type
+e:\work\c++ workspace\library-management\library-management\source.cpp(524): warning C4307: '*': integral constant overflow
+e:\work\c++ workspace\library-management\library-management\source.cpp(505): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(562): note: see declaration of 'strcmpi'
+e:\work\c++ workspace\library-management\library-management\source.cpp(512): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(562): note: see declaration of 'strcmpi'
+e:\work\c++ workspace\library-management\library-management\source.cpp(539): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+e:\work\c++ workspace\library-management\library-management\source.cpp(495): warning C4101: 'bn': unreferenced local variable
+e:\work\c++ workspace\library-management\library-management\source.cpp(562): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+e:\work\c++ workspace\library-management\library-management\source.cpp(641): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(455): note: see declaration of 'getche'
+  Library-management.vcxproj -> E:\Work\C++ WorkSpace\Library-management\Debug\Library-management.exe
+  Library-management.vcxproj -> E:\Work\C++ WorkSpace\Library-management\Debug\Library-management.pdb (Full PDB)
